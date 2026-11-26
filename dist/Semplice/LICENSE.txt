@@ -1,0 +1,68 @@
+SEMPLICE - LICENSE AND USER AGREEMENT
+
+Version 1.0
+
+Please read this agreement before you use Semplice ("the Program"). By pressing "Accept" in the Program, or by installing, copying or using it, you agree to these terms. If you do not agree, press "Exit app" and do not use the Program.
+
+The author of the Program is DonEb14n ("the Author"). The Program's page is https://github.com/DonEb14n/Semplice.
+
+
+1. WHAT SEMPLICE IS
+
+Semplice is an offline music player with a managed library. You give it music files; it copies them into a library folder that it organises (artists, albums, playlists), keeps a database of what is there, and plays it. The Program works entirely on your computer. It has no accounts, no advertising and no connection to the internet.
+
+
+2. THE LICENSE
+
+The Author grants you a free, non-exclusive, non-transferable, worldwide license to install and use the Program on any number of your own computers, for personal and non-commercial purposes. You may make copies of the Program for your own use and give unmodified copies, together with this agreement, to other people free of charge.
+
+You may not: (a) sell, rent or lease the Program, or charge for access to it; (b) remove or change the Author's name, the Program's name, or this agreement; (c) present the Program, or a changed version of it, as your own work; (d) use the Program for anything that is unlawful.
+
+The source code of the Program is published on its page. Unless the source code carries a separate license of its own, this agreement is the only permission you have to use it; ask the Author if you want to do more than this agreement allows.
+
+Third-party components used by the Program (for example Qt, FFmpeg, TagLib and the Inter typeface) are licensed by their own authors under their own licenses. They are listed with their licenses in the file THIRD_PARTY_NOTICES.md that comes with the Program. Nothing in this agreement limits the rights those licenses give you.
+
+Support of the Author's work through https://www.patreon.com/DonEb14n is voluntary. It does not change your rights under this agreement, and it is not required to use the Program.
+
+
+3. YOUR MUSIC AND YOUR FILES
+
+Semplice does not provide any music. You are responsible for the files you add to it, and you confirm that you have the right to own and use them. The Author takes no responsibility for the content of your files or for the way you obtain or share them.
+
+When you add music, the Program makes copies of your files in the library folder you choose. Your original files are never moved, changed or deleted by the Program. Inside the library folder the Program renames, moves and rewrites files (for example their tags and cover pictures) to keep them in order. Do not edit the library folder by hand while the Program is running; use the "Rescan" function in the Settings if you change it from outside.
+
+Files that you delete in the Program are moved to the Windows Recycle Bin. They are not erased permanently by the Program.
+
+You are responsible for keeping copies (backups) of your music and of the library folder. The Program keeps small safety copies of its database, but it is not a backup tool.
+
+
+4. SHARING
+
+The Program can pack a playlist, an album or an artist's discography, including the audio files, into a ".smpl" file, and can add such a file to a library. Only share music that you have the right to share. The Author does not receive, check or store anything that you share, and is not responsible for what is shared with the Program.
+
+
+5. PRIVACY
+
+The Program does not collect, send or store any personal data outside your computer. The name you may enter in the Settings, your settings and your library stay on your computer. The Program writes a log file with technical information into the Program's data folder; it is never sent anywhere, and you can open and delete it ("Logs folder" in the Settings). If you choose to send a log to the Author, you decide what you send.
+
+
+6. NO WARRANTY
+
+THE PROGRAM IS PROVIDED "AS IS", FREE OF CHARGE, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. THE AUTHOR DOES NOT PROMISE THAT THE PROGRAM WILL BE FREE OF ERRORS, THAT IT WILL WORK WITHOUT INTERRUPTION, OR THAT IT WILL SUIT YOUR PURPOSE.
+
+
+7. LIMITATION OF LIABILITY
+
+TO THE EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE THAT ARISES FROM THE USE OF, OR THE INABILITY TO USE, THE PROGRAM - INCLUDING LOSS OR DAMAGE OF FILES, MUSIC, TAGS OR DATA, LOST PROFIT, OR ANY INDIRECT OR CONSEQUENTIAL DAMAGE - EVEN IF THE AUTHOR HAS BEEN TOLD THAT SUCH DAMAGE IS POSSIBLE. YOU USE THE PROGRAM AT YOUR OWN RISK. IF THE LAW OF YOUR COUNTRY DOES NOT ALLOW THIS LIMITATION, IT APPLIES ONLY TO THE EXTENT THAT THE LAW ALLOWS.
+
+
+8. CHANGES AND END OF THE AGREEMENT
+
+The Author may publish new versions of the Program and of this agreement. A new version may ask you to accept the new agreement. You may stop using the Program at any time by uninstalling it; uninstalling does not delete your library folder or your music. This agreement ends automatically if you break it; then you must stop using the Program and delete your copies of it. Sections 3, 6 and 7 continue to apply after the end of the agreement.
+
+
+9. GENERAL
+
+If a part of this agreement is found to be invalid, the rest stays in force. This agreement is the whole agreement between you and the Author about the Program. It is written in English; translations in the Program are only for your convenience, and the English text decides if they differ.
+
+Questions and bug reports: https://github.com/DonEb14n/Semplice

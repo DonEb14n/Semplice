@@ -1,0 +1,55 @@
+set_source_files_properties(theme/Theme.qml theme/Format.qml theme/Ops.qml PROPERTIES QT_QML_SINGLETON_TYPE TRUE)
+
+qt_add_qml_module(semplice_qml
+    URI Semplice
+    STATIC
+    OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/Semplice"
+    QML_FILES
+        Main.qml
+        theme/Theme.qml
+        theme/Format.qml
+        theme/Ops.qml
+        components/Panel.qml
+        components/TitleBar.qml
+        components/ResizeEdges.qml
+        components/Icon.qml
+        components/IconButton.qml
+        components/ElideText.qml
+        components/Avatar.qml
+        components/ThinSlider.qml
+        components/LibraryItem.qml
+        components/SelectFolderCard.qml
+        components/BannerHost.qml
+        components/QueueRow.qml
+        components/Chip.qml
+        components/FadePopup.qml
+        components/DateWheel.qml
+        components/PillButton.qml
+        components/PopoverMenu.qml
+        components/PopupSurface.qml
+        components/PickerPopup.qml
+        components/ConfirmCard.qml
+        components/TrackRowItem.qml
+        components/TrackTableHeader.qml
+        components/LayoutBoard.qml
+        components/TrackMenuHost.qml
+        components/TrackRowEditor.qml
+        components/ArtistLinks.qml
+        pages/ArtistPage.qml
+        pages/AlbumPage.qml
+        pages/PlaylistPage.qml
+        pages/EditorPage.qml
+        pages/SettingsPage.qml
+        pages/SharePage.qml
+        components/LicenseDialog.qml
+        components/Carousel.qml
+        pages/HomePage.qml
+        pages/CategoryPage.qml
+        panels/LibraryPanel.qml
+        panels/HotbarPanel.qml
+        panels/PlayerPanel.qml
+        panels/SidePanel.qml
+        panels/MiddleHost.qml
+        popups/SearchPopup.qml
+        popups/QueuePopup.qml
+)

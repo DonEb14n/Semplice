@@ -1,0 +1,2792 @@
+{
+    "version":  1,
+    "genres":  [
+                   {
+                       "key":  "rock",
+                       "names":  {
+                                     "en":  "Rock",
+                                     "ru":  "Рок",
+                                     "zh_CN":  "摇滚",
+                                     "ja":  "ロック"
+                                 },
+                       "aliases":  [
+                                       "Rock & Roll",
+                                       "Rock'n'Roll",
+                                       "Rock and Roll",
+                                       "Rock n Roll",
+                                       "Rock Music",
+                                       "Classic Rock",
+                                       "Roots Rock"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "blues",
+                                       "folk-rock",
+                                       "grunge",
+                                       "hard-rock",
+                                       "indie",
+                                       "progressive-rock",
+                                       "psychedelic-rock",
+                                       "punk"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "hard-rock",
+                       "names":  {
+                                     "en":  "Hard Rock",
+                                     "ru":  "Хард-рок",
+                                     "zh_CN":  "硬摇滚",
+                                     "ja":  "ハードロック"
+                                 },
+                       "aliases":  [
+                                       "Hard-Rock",
+                                       "Hardrock"
+                                   ],
+                       "related":  [
+                                       "grunge",
+                                       "heavy-metal",
+                                       "metal",
+                                       "rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "progressive-rock",
+                       "names":  {
+                                     "en":  "Progressive Rock",
+                                     "ru":  "Прогрессивный рок",
+                                     "zh_CN":  "前卫摇滚",
+                                     "ja":  "プログレッシブ・ロック"
+                                 },
+                       "aliases":  [
+                                       "Prog Rock",
+                                       "Prog-Rock",
+                                       "Progressive",
+                                       "Prog"
+                                   ],
+                       "related":  [
+                                       "jazz-fusion",
+                                       "post-rock",
+                                       "psychedelic-rock",
+                                       "rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "psychedelic-rock",
+                       "names":  {
+                                     "en":  "Psychedelic Rock",
+                                     "ru":  "Психоделический рок",
+                                     "zh_CN":  "迷幻摇滚",
+                                     "ja":  "サイケデリック・ロック"
+                                 },
+                       "aliases":  [
+                                       "Psychedelic",
+                                       "Psych Rock",
+                                       "Psych",
+                                       "Acid Rock"
+                                   ],
+                       "related":  [
+                                       "folk-rock",
+                                       "progressive-rock",
+                                       "rock",
+                                       "shoegaze"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "alternative-rock",
+                       "names":  {
+                                     "en":  "Alternative Rock",
+                                     "ru":  "Альтернативный рок",
+                                     "zh_CN":  "另类摇滚",
+                                     "ja":  "オルタナティブ・ロック"
+                                 },
+                       "aliases":  [
+                                       "Alternative",
+                                       "Alt Rock",
+                                       "Alt-Rock",
+                                       "Alternative & Punk",
+                                       "Alternative/Indie"
+                                   ],
+                       "related":  [
+                                       "britpop",
+                                       "emo",
+                                       "grunge",
+                                       "indie",
+                                       "post-punk",
+                                       "rock",
+                                       "shoegaze"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "indie",
+                       "names":  {
+                                     "en":  "Indie",
+                                     "ru":  "Инди",
+                                     "zh_CN":  "独立音乐",
+                                     "ja":  "インディー"
+                                 },
+                       "aliases":  [
+                                       "Indie Rock",
+                                       "Independent",
+                                       "Indie/Alternative"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "britpop",
+                                       "indie-pop",
+                                       "rock",
+                                       "shoegaze"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "punk",
+                       "names":  {
+                                     "en":  "Punk",
+                                     "ru":  "Панк",
+                                     "zh_CN":  "朋克",
+                                     "ja":  "パンク"
+                                 },
+                       "aliases":  [
+                                       "Punk Rock",
+                                       "Pop Punk",
+                                       "Punk Music"
+                                   ],
+                       "related":  [
+                                       "emo",
+                                       "hardcore",
+                                       "post-punk",
+                                       "rock",
+                                       "ska"
+                                   ],
+                       "opposite":  [
+                                        "classical",
+                                        "easy-listening",
+                                        "smooth-jazz"
+                                    ]
+                   },
+                   {
+                       "key":  "post-punk",
+                       "names":  {
+                                     "en":  "Post-Punk",
+                                     "ru":  "Пост-панк",
+                                     "zh_CN":  "后朋克",
+                                     "ja":  "ポストパンク"
+                                 },
+                       "aliases":  [
+                                       "Post Punk",
+                                       "Postpunk"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "gothic",
+                                       "new-wave",
+                                       "punk"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "grunge",
+                       "names":  {
+                                     "en":  "Grunge",
+                                     "ru":  "Гранж",
+                                     "zh_CN":  "油渍摇滚",
+                                     "ja":  "グランジ"
+                                 },
+                       "aliases":  [
+                                       "Seattle Sound"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "hard-rock",
+                                       "rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "post-rock",
+                       "names":  {
+                                     "en":  "Post-Rock",
+                                     "ru":  "Пост-рок",
+                                     "zh_CN":  "后摇滚",
+                                     "ja":  "ポストロック"
+                                 },
+                       "aliases":  [
+                                       "Post Rock",
+                                       "Postrock"
+                                   ],
+                       "related":  [
+                                       "ambient",
+                                       "experimental",
+                                       "progressive-rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "shoegaze",
+                       "names":  {
+                                     "en":  "Shoegaze",
+                                     "ru":  "Шугейз",
+                                     "zh_CN":  "鞋盯",
+                                     "ja":  "シューゲイザー"
+                                 },
+                       "aliases":  [
+                                       "Shoegazing",
+                                       "Dream Pop"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "ambient",
+                                       "indie",
+                                       "psychedelic-rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "emo",
+                       "names":  {
+                                     "en":  "Emo",
+                                     "ru":  "Эмо",
+                                     "zh_CN":  "情绪硬核",
+                                     "ja":  "エモ"
+                                 },
+                       "aliases":  [
+                                       "Emocore",
+                                       "Emo Rock"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "hardcore",
+                                       "indie-pop",
+                                       "punk"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "hardcore",
+                       "names":  {
+                                     "en":  "Hardcore",
+                                     "ru":  "Хардкор",
+                                     "zh_CN":  "硬核",
+                                     "ja":  "ハードコア"
+                                 },
+                       "aliases":  [
+                                       "Hardcore Punk",
+                                       "Hard Core"
+                                   ],
+                       "related":  [
+                                       "emo",
+                                       "punk",
+                                       "thrash-metal"
+                                   ],
+                       "opposite":  [
+                                        "ambient"
+                                    ]
+                   },
+                   {
+                       "key":  "new-wave",
+                       "names":  {
+                                     "en":  "New Wave",
+                                     "ru":  "Нью-вейв",
+                                     "zh_CN":  "新浪潮",
+                                     "ja":  "ニュー・ウェイヴ"
+                                 },
+                       "aliases":  [
+                                       "Newwave",
+                                       "New Romantic",
+                                       "NDW",
+                                       "Neue Deutsche Welle"
+                                   ],
+                       "related":  [
+                                       "post-punk",
+                                       "synth-pop",
+                                       "synthwave"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "gothic",
+                       "names":  {
+                                     "en":  "Gothic",
+                                     "ru":  "Готик",
+                                     "zh_CN":  "哥特",
+                                     "ja":  "ゴシック"
+                                 },
+                       "aliases":  [
+                                       "Goth",
+                                       "Gothic Rock",
+                                       "Darkwave",
+                                       "Goth Rock"
+                                   ],
+                       "related":  [
+                                       "black-metal",
+                                       "industrial",
+                                       "post-punk"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "britpop",
+                       "names":  {
+                                     "en":  "Britpop",
+                                     "ru":  "Брит-поп",
+                                     "zh_CN":  "英伦摇滚",
+                                     "ja":  "ブリットポップ"
+                                 },
+                       "aliases":  [
+                                       "Brit Pop",
+                                       "Brit-Pop",
+                                       "BritPop"
+                                   ],
+                       "related":  [
+                                       "alternative-rock",
+                                       "indie",
+                                       "indie-pop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "folk-rock",
+                       "names":  {
+                                     "en":  "Folk Rock",
+                                     "ru":  "Фолк-рок",
+                                     "zh_CN":  "民谣摇滚",
+                                     "ja":  "フォーク・ロック"
+                                 },
+                       "aliases":  [
+                                       "Folk/Rock",
+                                       "Folk-Rock"
+                                   ],
+                       "related":  [
+                                       "country",
+                                       "folk",
+                                       "psychedelic-rock",
+                                       "rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "metal",
+                       "names":  {
+                                     "en":  "Metal",
+                                     "ru":  "Метал",
+                                     "zh_CN":  "金属",
+                                     "ja":  "メタル"
+                                 },
+                       "aliases":  [
+                                       "Metal Music"
+                                   ],
+                       "related":  [
+                                       "black-metal",
+                                       "death-metal",
+                                       "hard-rock",
+                                       "heavy-metal",
+                                       "thrash-metal"
+                                   ],
+                       "opposite":  [
+                                        "children",
+                                        "easy-listening",
+                                        "lo-fi",
+                                        "new-age",
+                                        "smooth-jazz"
+                                    ]
+                   },
+                   {
+                       "key":  "heavy-metal",
+                       "names":  {
+                                     "en":  "Heavy Metal",
+                                     "ru":  "Хэви-метал",
+                                     "zh_CN":  "重金属",
+                                     "ja":  "ヘヴィメタル"
+                                 },
+                       "aliases":  [
+                                       "Heavy",
+                                       "Classic Metal",
+                                       "NWOBHM"
+                                   ],
+                       "related":  [
+                                       "hard-rock",
+                                       "metal",
+                                       "thrash-metal"
+                                   ],
+                       "opposite":  [
+                                        "children",
+                                        "easy-listening",
+                                        "new-age",
+                                        "smooth-jazz"
+                                    ]
+                   },
+                   {
+                       "key":  "thrash-metal",
+                       "names":  {
+                                     "en":  "Thrash Metal",
+                                     "ru":  "Трэш-метал",
+                                     "zh_CN":  "鞭挞金属",
+                                     "ja":  "スラッシュメタル"
+                                 },
+                       "aliases":  [
+                                       "Thrash"
+                                   ],
+                       "related":  [
+                                       "death-metal",
+                                       "hardcore",
+                                       "heavy-metal",
+                                       "metal"
+                                   ],
+                       "opposite":  [
+                                        "ambient",
+                                        "children",
+                                        "easy-listening",
+                                        "new-age"
+                                    ]
+                   },
+                   {
+                       "key":  "death-metal",
+                       "names":  {
+                                     "en":  "Death Metal",
+                                     "ru":  "Дэт-метал",
+                                     "zh_CN":  "死亡金属",
+                                     "ja":  "デスメタル"
+                                 },
+                       "aliases":  [
+                                       "Death",
+                                       "Brutal Death Metal",
+                                       "Melodic Death Metal"
+                                   ],
+                       "related":  [
+                                       "black-metal",
+                                       "metal",
+                                       "thrash-metal"
+                                   ],
+                       "opposite":  [
+                                        "children",
+                                        "classical",
+                                        "country",
+                                        "easy-listening",
+                                        "new-age"
+                                    ]
+                   },
+                   {
+                       "key":  "black-metal",
+                       "names":  {
+                                     "en":  "Black Metal",
+                                     "ru":  "Блэк-метал",
+                                     "zh_CN":  "黑金属",
+                                     "ja":  "ブラックメタル"
+                                 },
+                       "aliases":  [
+                                       "Black"
+                                   ],
+                       "related":  [
+                                       "death-metal",
+                                       "gothic",
+                                       "metal"
+                                   ],
+                       "opposite":  [
+                                        "children",
+                                        "easy-listening",
+                                        "new-age",
+                                        "pop"
+                                    ]
+                   },
+                   {
+                       "key":  "pop",
+                       "names":  {
+                                     "en":  "Pop",
+                                     "ru":  "Поп",
+                                     "zh_CN":  "流行音乐",
+                                     "ja":  "ポップ"
+                                 },
+                       "aliases":  [
+                                       "Pop Music",
+                                       "Pop/Rock",
+                                       "Pop Rock",
+                                       "Pop-Rock",
+                                       "Popular"
+                                   ],
+                       "related":  [
+                                       "dance",
+                                       "indie-pop",
+                                       "j-pop",
+                                       "k-pop",
+                                       "r-and-b",
+                                       "synth-pop"
+                                   ],
+                       "opposite":  [
+                                        "black-metal"
+                                    ]
+                   },
+                   {
+                       "key":  "synth-pop",
+                       "names":  {
+                                     "en":  "Synth-Pop",
+                                     "ru":  "Синти-поп",
+                                     "zh_CN":  "合成器流行",
+                                     "ja":  "シンセポップ"
+                                 },
+                       "aliases":  [
+                                       "Synthpop",
+                                       "Synth Pop",
+                                       "Electropop"
+                                   ],
+                       "related":  [
+                                       "electronic",
+                                       "new-wave",
+                                       "pop",
+                                       "synthwave"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "indie-pop",
+                       "names":  {
+                                     "en":  "Indie Pop",
+                                     "ru":  "Инди-поп",
+                                     "zh_CN":  "独立流行",
+                                     "ja":  "インディーポップ"
+                                 },
+                       "aliases":  [
+                                       "Indiepop",
+                                       "Twee Pop"
+                                   ],
+                       "related":  [
+                                       "britpop",
+                                       "emo",
+                                       "indie",
+                                       "pop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "k-pop",
+                       "names":  {
+                                     "en":  "K-Pop",
+                                     "ru":  "К-поп",
+                                     "zh_CN":  "韩国流行音乐",
+                                     "ja":  "Kポップ"
+                                 },
+                       "aliases":  [
+                                       "KPop",
+                                       "Korean Pop"
+                                   ],
+                       "related":  [
+                                       "hip-hop",
+                                       "j-pop",
+                                       "pop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "j-pop",
+                       "names":  {
+                                     "en":  "J-Pop",
+                                     "ru":  "Джей-поп",
+                                     "zh_CN":  "日本流行音乐",
+                                     "ja":  "Jポップ"
+                                 },
+                       "aliases":  [
+                                       "JPop",
+                                       "Japanese Pop"
+                                   ],
+                       "related":  [
+                                       "anime",
+                                       "k-pop",
+                                       "pop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "anime",
+                       "names":  {
+                                     "en":  "Anime",
+                                     "ru":  "Аниме",
+                                     "zh_CN":  "动漫音乐",
+                                     "ja":  "アニメ"
+                                 },
+                       "aliases":  [
+                                       "Anison",
+                                       "Anime Music"
+                                   ],
+                       "related":  [
+                                       "j-pop",
+                                       "soundtrack"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "dance",
+                       "names":  {
+                                     "en":  "Dance",
+                                     "ru":  "Танцевальная",
+                                     "zh_CN":  "舞曲",
+                                     "ja":  "ダンス"
+                                 },
+                       "aliases":  [
+                                       "Dance Music",
+                                       "Eurodance",
+                                       "Club",
+                                       "Dance Pop"
+                                   ],
+                       "related":  [
+                                       "disco",
+                                       "electronic",
+                                       "house",
+                                       "pop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "electronic",
+                       "names":  {
+                                     "en":  "Electronic",
+                                     "ru":  "Электронная",
+                                     "zh_CN":  "电子音乐",
+                                     "ja":  "エレクトロニック"
+                                 },
+                       "aliases":  [
+                                       "Electronica",
+                                       "Electronic Music",
+                                       "Electro",
+                                       "EDM",
+                                       "Elektronik",
+                                       "Electronic/Dance",
+                                       "Electronic & Dance",
+                                       "Big Beat",
+                                       "Breakbeat",
+                                       "IDM",
+                                       "Electroclash"
+                                   ],
+                       "related":  [
+                                       "ambient",
+                                       "dance",
+                                       "downtempo",
+                                       "drum-and-bass",
+                                       "dubstep",
+                                       "house",
+                                       "industrial",
+                                       "synth-pop",
+                                       "synthwave",
+                                       "techno",
+                                       "trance",
+                                       "trip-hop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "house",
+                       "names":  {
+                                     "en":  "House",
+                                     "ru":  "Хаус",
+                                     "zh_CN":  "浩室音乐",
+                                     "ja":  "ハウス"
+                                 },
+                       "aliases":  [
+                                       "House Music",
+                                       "Deep House",
+                                       "Progressive House",
+                                       "Tech House",
+                                       "Euro-House",
+                                       "Club-House"
+                                   ],
+                       "related":  [
+                                       "dance",
+                                       "electronic",
+                                       "techno",
+                                       "trance"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "techno",
+                       "names":  {
+                                     "en":  "Techno",
+                                     "ru":  "Техно",
+                                     "zh_CN":  "科技舞曲",
+                                     "ja":  "テクノ"
+                                 },
+                       "aliases":  [
+                                       "Techno Music",
+                                       "Detroit Techno",
+                                       "Euro-Techno",
+                                       "Rave"
+                                   ],
+                       "related":  [
+                                       "electronic",
+                                       "house",
+                                       "industrial",
+                                       "trance"
+                                   ],
+                       "opposite":  [
+                                        "country",
+                                        "folk"
+                                    ]
+                   },
+                   {
+                       "key":  "trance",
+                       "names":  {
+                                     "en":  "Trance",
+                                     "ru":  "Транс",
+                                     "zh_CN":  "出神音乐",
+                                     "ja":  "トランス"
+                                 },
+                       "aliases":  [
+                                       "Psytrance",
+                                       "Goa Trance",
+                                       "Progressive Trance",
+                                       "Goa"
+                                   ],
+                       "related":  [
+                                       "electronic",
+                                       "house",
+                                       "techno"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "drum-and-bass",
+                       "names":  {
+                                     "en":  "Drum and Bass",
+                                     "ru":  "Драм-н-бейс",
+                                     "zh_CN":  "鼓打贝斯",
+                                     "ja":  "ドラムンベース"
+                                 },
+                       "aliases":  [
+                                       "Drum & Bass",
+                                       "Drum n Bass",
+                                       "DnB",
+                                       "D&B",
+                                       "Drum'n'Bass",
+                                       "Jungle"
+                                   ],
+                       "related":  [
+                                       "dubstep",
+                                       "electronic"
+                                   ],
+                       "opposite":  [
+                                        "folk"
+                                    ]
+                   },
+                   {
+                       "key":  "dubstep",
+                       "names":  {
+                                     "en":  "Dubstep",
+                                     "ru":  "Дабстеп",
+                                     "zh_CN":  "回响贝斯",
+                                     "ja":  "ダブステップ"
+                                 },
+                       "aliases":  [
+                                       "Dub Step",
+                                       "Brostep"
+                                   ],
+                       "related":  [
+                                       "drum-and-bass",
+                                       "dub",
+                                       "electronic",
+                                       "trap"
+                                   ],
+                       "opposite":  [
+                                        "folk"
+                                    ]
+                   },
+                   {
+                       "key":  "ambient",
+                       "names":  {
+                                     "en":  "Ambient",
+                                     "ru":  "Эмбиент",
+                                     "zh_CN":  "氛围音乐",
+                                     "ja":  "アンビエント"
+                                 },
+                       "aliases":  [
+                                       "Ambient Music",
+                                       "Dark Ambient",
+                                       "Illbient",
+                                       "Psybient"
+                                   ],
+                       "related":  [
+                                       "chillout",
+                                       "downtempo",
+                                       "electronic",
+                                       "lo-fi",
+                                       "new-age",
+                                       "post-rock",
+                                       "shoegaze"
+                                   ],
+                       "opposite":  [
+                                        "hardcore",
+                                        "thrash-metal"
+                                    ]
+                   },
+                   {
+                       "key":  "downtempo",
+                       "names":  {
+                                     "en":  "Downtempo",
+                                     "ru":  "Даунтемпо",
+                                     "zh_CN":  "缓拍音乐",
+                                     "ja":  "ダウンテンポ"
+                                 },
+                       "aliases":  [
+                                       "Down Tempo",
+                                       "Downbeat"
+                                   ],
+                       "related":  [
+                                       "ambient",
+                                       "chillout",
+                                       "electronic",
+                                       "lo-fi",
+                                       "trip-hop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "trip-hop",
+                       "names":  {
+                                     "en":  "Trip Hop",
+                                     "ru":  "Трип-хоп",
+                                     "zh_CN":  "神游舞曲",
+                                     "ja":  "トリップホップ"
+                                 },
+                       "aliases":  [
+                                       "Trip-Hop",
+                                       "Triphop",
+                                       "Bristol Sound"
+                                   ],
+                       "related":  [
+                                       "downtempo",
+                                       "electronic",
+                                       "hip-hop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "synthwave",
+                       "names":  {
+                                     "en":  "Synthwave",
+                                     "ru":  "Синтвейв",
+                                     "zh_CN":  "合成器浪潮",
+                                     "ja":  "シンセウェイヴ"
+                                 },
+                       "aliases":  [
+                                       "Synth Wave",
+                                       "Retrowave",
+                                       "Outrun"
+                                   ],
+                       "related":  [
+                                       "electronic",
+                                       "new-wave",
+                                       "synth-pop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "industrial",
+                       "names":  {
+                                     "en":  "Industrial",
+                                     "ru":  "Индастриал",
+                                     "zh_CN":  "工业音乐",
+                                     "ja":  "インダストリアル"
+                                 },
+                       "aliases":  [
+                                       "Industrial Rock",
+                                       "EBM",
+                                       "Industrial Metal",
+                                       "Techno-Industrial",
+                                       "Industro-Goth"
+                                   ],
+                       "related":  [
+                                       "electronic",
+                                       "gothic",
+                                       "techno"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "chillout",
+                       "names":  {
+                                     "en":  "Chillout",
+                                     "ru":  "Чилаут",
+                                     "zh_CN":  "放松音乐",
+                                     "ja":  "チルアウト"
+                                 },
+                       "aliases":  [
+                                       "Chill Out",
+                                       "Chill",
+                                       "Chillwave"
+                                   ],
+                       "related":  [
+                                       "ambient",
+                                       "downtempo"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "lo-fi",
+                       "names":  {
+                                     "en":  "Lo-Fi",
+                                     "ru":  "Лоу-фай",
+                                     "zh_CN":  "低保真",
+                                     "ja":  "ローファイ"
+                                 },
+                       "aliases":  [
+                                       "Lofi",
+                                       "Lo Fi",
+                                       "Lo-Fi Hip Hop"
+                                   ],
+                       "related":  [
+                                       "ambient",
+                                       "downtempo"
+                                   ],
+                       "opposite":  [
+                                        "metal"
+                                    ]
+                   },
+                   {
+                       "key":  "hip-hop",
+                       "names":  {
+                                     "en":  "Hip-Hop",
+                                     "ru":  "Хип-хоп",
+                                     "zh_CN":  "嘻哈",
+                                     "ja":  "ヒップホップ"
+                                 },
+                       "aliases":  [
+                                       "Hip Hop",
+                                       "Hip-Hop/Rap",
+                                       "HipHop",
+                                       "Hiphop",
+                                       "Rap/Hip-Hop",
+                                       "Hip Hop/Rap",
+                                       "Gangsta",
+                                       "Gangsta Rap",
+                                       "G-Funk",
+                                       "Booty Bass"
+                                   ],
+                       "related":  [
+                                       "funk",
+                                       "k-pop",
+                                       "r-and-b",
+                                       "rap",
+                                       "trap",
+                                       "trip-hop"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "rap",
+                       "names":  {
+                                     "en":  "Rap",
+                                     "ru":  "Рэп",
+                                     "zh_CN":  "说唱",
+                                     "ja":  "ラップ"
+                                 },
+                       "aliases":  [
+                                       "Rap Music",
+                                       "Rapping",
+                                       "Christian Rap",
+                                       "Christian Gangsta Rap"
+                                   ],
+                       "related":  [
+                                       "hip-hop",
+                                       "trap"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "trap",
+                       "names":  {
+                                     "en":  "Trap",
+                                     "ru":  "Трэп",
+                                     "zh_CN":  "陷阱音乐",
+                                     "ja":  "トラップ"
+                                 },
+                       "aliases":  [
+                                       "Trap Music",
+                                       "Trap Rap"
+                                   ],
+                       "related":  [
+                                       "dubstep",
+                                       "hip-hop",
+                                       "rap"
+                                   ],
+                       "opposite":  [
+                                        "classical",
+                                        "country",
+                                        "folk"
+                                    ]
+                   },
+                   {
+                       "key":  "r-and-b",
+                       "names":  {
+                                     "en":  "R&B",
+                                     "ru":  "Ритм-н-блюз",
+                                     "zh_CN":  "节奏布鲁斯",
+                                     "ja":  "R&B"
+                                 },
+                       "aliases":  [
+                                       "RnB",
+                                       "R'n'B",
+                                       "R & B",
+                                       "Rhythm and Blues",
+                                       "Rhythm & Blues",
+                                       "R&B/Soul",
+                                       "Contemporary R&B",
+                                       "Slow Jam"
+                                   ],
+                       "related":  [
+                                       "funk",
+                                       "hip-hop",
+                                       "pop",
+                                       "soul"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "soul",
+                       "names":  {
+                                     "en":  "Soul",
+                                     "ru":  "Соул",
+                                     "zh_CN":  "灵魂乐",
+                                     "ja":  "ソウル"
+                                 },
+                       "aliases":  [
+                                       "Soul Music",
+                                       "Neo Soul",
+                                       "Northern Soul",
+                                       "Motown",
+                                       "Rhythmic Soul"
+                                   ],
+                       "related":  [
+                                       "blues",
+                                       "disco",
+                                       "funk",
+                                       "gospel",
+                                       "jazz",
+                                       "r-and-b"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "funk",
+                       "names":  {
+                                     "en":  "Funk",
+                                     "ru":  "Фанк",
+                                     "zh_CN":  "放克",
+                                     "ja":  "ファンク"
+                                 },
+                       "aliases":  [
+                                       "Funk Music",
+                                       "P-Funk",
+                                       "Pop/Funk"
+                                   ],
+                       "related":  [
+                                       "afrobeat",
+                                       "disco",
+                                       "hip-hop",
+                                       "jazz-fusion",
+                                       "r-and-b",
+                                       "soul"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "disco",
+                       "names":  {
+                                     "en":  "Disco",
+                                     "ru":  "Диско",
+                                     "zh_CN":  "迪斯科",
+                                     "ja":  "ディスコ"
+                                 },
+                       "aliases":  [
+                                       "Disco Music",
+                                       "Nu-Disco",
+                                       "Italo Disco"
+                                   ],
+                       "related":  [
+                                       "dance",
+                                       "funk",
+                                       "soul"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "jazz",
+                       "names":  {
+                                     "en":  "Jazz",
+                                     "ru":  "Джаз",
+                                     "zh_CN":  "爵士乐",
+                                     "ja":  "ジャズ"
+                                 },
+                       "aliases":  [
+                                       "Jazz Music",
+                                       "Bebop",
+                                       "Bebob",
+                                       "Swing",
+                                       "Big Band",
+                                       "Acid Jazz",
+                                       "Cool Jazz",
+                                       "Free Jazz",
+                                       "Vocal Jazz",
+                                       "Jazz/Blues"
+                                   ],
+                       "related":  [
+                                       "blues",
+                                       "bossa-nova",
+                                       "jazz-fusion",
+                                       "smooth-jazz",
+                                       "soul"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "smooth-jazz",
+                       "names":  {
+                                     "en":  "Smooth Jazz",
+                                     "ru":  "Смус-джаз",
+                                     "zh_CN":  "轻爵士",
+                                     "ja":  "スムースジャズ"
+                                 },
+                       "aliases":  [
+                                       "Contemporary Jazz"
+                                   ],
+                       "related":  [
+                                       "easy-listening",
+                                       "jazz"
+                                   ],
+                       "opposite":  [
+                                        "heavy-metal",
+                                        "metal",
+                                        "punk"
+                                    ]
+                   },
+                   {
+                       "key":  "jazz-fusion",
+                       "names":  {
+                                     "en":  "Jazz Fusion",
+                                     "ru":  "Джаз-фьюжн",
+                                     "zh_CN":  "融合爵士",
+                                     "ja":  "フュージョン"
+                                 },
+                       "aliases":  [
+                                       "Fusion",
+                                       "Jazz-Funk",
+                                       "Jazz Funk",
+                                       "Fast Fusion"
+                                   ],
+                       "related":  [
+                                       "funk",
+                                       "jazz",
+                                       "progressive-rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "bossa-nova",
+                       "names":  {
+                                     "en":  "Bossa Nova",
+                                     "ru":  "Босса-нова",
+                                     "zh_CN":  "波萨诺瓦",
+                                     "ja":  "ボサノヴァ"
+                                 },
+                       "aliases":  [
+                                       "Bossanova"
+                                   ],
+                       "related":  [
+                                       "jazz",
+                                       "latin"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "blues",
+                       "names":  {
+                                     "en":  "Blues",
+                                     "ru":  "Блюз",
+                                     "zh_CN":  "蓝调",
+                                     "ja":  "ブルース"
+                                 },
+                       "aliases":  [
+                                       "Blues Music",
+                                       "Delta Blues",
+                                       "Chicago Blues",
+                                       "Blues Rock"
+                                   ],
+                       "related":  [
+                                       "gospel",
+                                       "jazz",
+                                       "rock",
+                                       "soul"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "country",
+                       "names":  {
+                                     "en":  "Country",
+                                     "ru":  "Кантри",
+                                     "zh_CN":  "乡村音乐",
+                                     "ja":  "カントリー"
+                                 },
+                       "aliases":  [
+                                       "Country Music",
+                                       "Country & Western",
+                                       "Country/Western",
+                                       "Americana",
+                                       "Bluegrass",
+                                       "Alt-Country",
+                                       "Alt Country"
+                                   ],
+                       "related":  [
+                                       "folk",
+                                       "folk-rock",
+                                       "gospel"
+                                   ],
+                       "opposite":  [
+                                        "death-metal",
+                                        "techno",
+                                        "trap"
+                                    ]
+                   },
+                   {
+                       "key":  "folk",
+                       "names":  {
+                                     "en":  "Folk",
+                                     "ru":  "Фолк",
+                                     "zh_CN":  "民谣",
+                                     "ja":  "フォーク"
+                                 },
+                       "aliases":  [
+                                       "Folk Music",
+                                       "Singer/Songwriter",
+                                       "Singer-Songwriter",
+                                       "Acoustic",
+                                       "Folklore",
+                                       "Celtic",
+                                       "Traditional",
+                                       "Roots",
+                                       "Polka",
+                                       "Pop-Folk"
+                                   ],
+                       "related":  [
+                                       "country",
+                                       "folk-rock",
+                                       "world"
+                                   ],
+                       "opposite":  [
+                                        "drum-and-bass",
+                                        "dubstep",
+                                        "techno",
+                                        "trap"
+                                    ]
+                   },
+                   {
+                       "key":  "classical",
+                       "names":  {
+                                     "en":  "Classical",
+                                     "ru":  "Классическая",
+                                     "zh_CN":  "古典音乐",
+                                     "ja":  "クラシック"
+                                 },
+                       "aliases":  [
+                                       "Classical Music",
+                                       "Baroque",
+                                       "Chamber Music",
+                                       "Symphony",
+                                       "Sonata",
+                                       "Neoclassical",
+                                       "Orchestral",
+                                       "Piano"
+                                   ],
+                       "related":  [
+                                       "opera",
+                                       "soundtrack"
+                                   ],
+                       "opposite":  [
+                                        "death-metal",
+                                        "punk",
+                                        "trap"
+                                    ]
+                   },
+                   {
+                       "key":  "opera",
+                       "names":  {
+                                     "en":  "Opera",
+                                     "ru":  "Опера",
+                                     "zh_CN":  "歌剧",
+                                     "ja":  "オペラ"
+                                 },
+                       "aliases":  [
+                                       "Opera Music",
+                                       "Operetta"
+                                   ],
+                       "related":  [
+                                       "classical"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "soundtrack",
+                       "names":  {
+                                     "en":  "Soundtrack",
+                                     "ru":  "Саундтрек",
+                                     "zh_CN":  "原声音乐",
+                                     "ja":  "サウンドトラック"
+                                 },
+                       "aliases":  [
+                                       "Soundtracks",
+                                       "OST",
+                                       "Film Score",
+                                       "Movie Soundtrack",
+                                       "Score",
+                                       "Original Soundtrack",
+                                       "Musical",
+                                       "Showtunes",
+                                       "Trailer",
+                                       "Game Music",
+                                       "Video Game Music"
+                                   ],
+                       "related":  [
+                                       "anime",
+                                       "classical"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "reggae",
+                       "names":  {
+                                     "en":  "Reggae",
+                                     "ru":  "Регги",
+                                     "zh_CN":  "雷鬼",
+                                     "ja":  "レゲエ"
+                                 },
+                       "aliases":  [
+                                       "Reggae Music",
+                                       "Roots Reggae",
+                                       "Dancehall",
+                                       "Dance Hall"
+                                   ],
+                       "related":  [
+                                       "dub",
+                                       "ska"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "ska",
+                       "names":  {
+                                     "en":  "Ska",
+                                     "ru":  "Ска",
+                                     "zh_CN":  "斯卡",
+                                     "ja":  "スカ"
+                                 },
+                       "aliases":  [
+                                       "Ska Punk",
+                                       "Two Tone",
+                                       "2 Tone"
+                                   ],
+                       "related":  [
+                                       "punk",
+                                       "reggae"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "dub",
+                       "names":  {
+                                     "en":  "Dub",
+                                     "ru":  "Даб",
+                                     "zh_CN":  "配音音乐",
+                                     "ja":  "ダブ"
+                                 },
+                       "aliases":  [
+                                       "Dub Music",
+                                       "Dub Reggae"
+                                   ],
+                       "related":  [
+                                       "dubstep",
+                                       "reggae"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "latin",
+                       "names":  {
+                                     "en":  "Latin",
+                                     "ru":  "Латиноамериканская",
+                                     "zh_CN":  "拉丁音乐",
+                                     "ja":  "ラテン"
+                                 },
+                       "aliases":  [
+                                       "Latin Music",
+                                       "Latino",
+                                       "Latin Pop",
+                                       "Merengue",
+                                       "Tango",
+                                       "Samba",
+                                       "Reggaeton"
+                                   ],
+                       "related":  [
+                                       "bossa-nova",
+                                       "salsa",
+                                       "world"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "salsa",
+                       "names":  {
+                                     "en":  "Salsa",
+                                     "ru":  "Сальса",
+                                     "zh_CN":  "萨尔萨",
+                                     "ja":  "サルサ"
+                                 },
+                       "aliases":  [
+                                       "Salsa Music",
+                                       "Mambo"
+                                   ],
+                       "related":  [
+                                       "latin"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "world",
+                       "names":  {
+                                     "en":  "World",
+                                     "ru":  "Музыка мира",
+                                     "zh_CN":  "世界音乐",
+                                     "ja":  "ワールドミュージック"
+                                 },
+                       "aliases":  [
+                                       "World Music",
+                                       "Worldbeat",
+                                       "Ethnic",
+                                       "International",
+                                       "Global",
+                                       "Tribal",
+                                       "Native American",
+                                       "Bhangra"
+                                   ],
+                       "related":  [
+                                       "afrobeat",
+                                       "folk",
+                                       "latin"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "afrobeat",
+                       "names":  {
+                                     "en":  "Afrobeat",
+                                     "ru":  "Афробит",
+                                     "zh_CN":  "非洲节拍",
+                                     "ja":  "アフロビート"
+                                 },
+                       "aliases":  [
+                                       "Afro Beat",
+                                       "Afro-Beat",
+                                       "Afrobeats"
+                                   ],
+                       "related":  [
+                                       "funk",
+                                       "world"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "gospel",
+                       "names":  {
+                                     "en":  "Gospel",
+                                     "ru":  "Госпел",
+                                     "zh_CN":  "福音音乐",
+                                     "ja":  "ゴスペル"
+                                 },
+                       "aliases":  [
+                                       "Gospel Music",
+                                       "Christian",
+                                       "Contemporary Christian",
+                                       "Spiritual",
+                                       "Praise & Worship"
+                                   ],
+                       "related":  [
+                                       "blues",
+                                       "country",
+                                       "soul"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "new-age",
+                       "names":  {
+                                     "en":  "New Age",
+                                     "ru":  "Нью-эйдж",
+                                     "zh_CN":  "新世纪音乐",
+                                     "ja":  "ニューエイジ"
+                                 },
+                       "aliases":  [
+                                       "NewAge",
+                                       "New Age Music",
+                                       "Meditation",
+                                       "Meditative",
+                                       "Relaxation"
+                                   ],
+                       "related":  [
+                                       "ambient",
+                                       "easy-listening"
+                                   ],
+                       "opposite":  [
+                                        "black-metal",
+                                        "death-metal",
+                                        "heavy-metal",
+                                        "metal",
+                                        "thrash-metal"
+                                    ]
+                   },
+                   {
+                       "key":  "easy-listening",
+                       "names":  {
+                                     "en":  "Easy Listening",
+                                     "ru":  "Лёгкая музыка",
+                                     "zh_CN":  "轻音乐",
+                                     "ja":  "イージーリスニング"
+                                 },
+                       "aliases":  [
+                                       "Lounge Music",
+                                       "Lounge",
+                                       "Adult Contemporary",
+                                       "Muzak",
+                                       "Light Music"
+                                   ],
+                       "related":  [
+                                       "new-age",
+                                       "smooth-jazz"
+                                   ],
+                       "opposite":  [
+                                        "black-metal",
+                                        "death-metal",
+                                        "heavy-metal",
+                                        "metal",
+                                        "punk",
+                                        "thrash-metal"
+                                    ]
+                   },
+                   {
+                       "key":  "experimental",
+                       "names":  {
+                                     "en":  "Experimental",
+                                     "ru":  "Экспериментальная",
+                                     "zh_CN":  "实验音乐",
+                                     "ja":  "エクスペリメンタル"
+                                 },
+                       "aliases":  [
+                                       "Experimental Music",
+                                       "Avant-Garde",
+                                       "Avantgarde",
+                                       "Avant Garde",
+                                       "Abstract",
+                                       "Musique Concrete"
+                                   ],
+                       "related":  [
+                                       "noise",
+                                       "post-rock"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "noise",
+                       "names":  {
+                                     "en":  "Noise",
+                                     "ru":  "Нойз",
+                                     "zh_CN":  "噪音音乐",
+                                     "ja":  "ノイズ"
+                                 },
+                       "aliases":  [
+                                       "Noise Music",
+                                       "Harsh Noise",
+                                       "Power Electronics"
+                                   ],
+                       "related":  [
+                                       "experimental"
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "instrumental",
+                       "names":  {
+                                     "en":  "Instrumental",
+                                     "ru":  "Инструментальная",
+                                     "zh_CN":  "器乐",
+                                     "ja":  "インストゥルメンタル"
+                                 },
+                       "aliases":  [
+                                       "Instrumental Music",
+                                       "Instrumental Pop",
+                                       "Instrumental Rock"
+                                   ],
+                       "related":  [
+
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "a-cappella",
+                       "names":  {
+                                     "en":  "A Cappella",
+                                     "ru":  "А капелла",
+                                     "zh_CN":  "无伴奏合唱",
+                                     "ja":  "アカペラ"
+                                 },
+                       "aliases":  [
+                                       "Acapella",
+                                       "A capella",
+                                       "Vocal Group"
+                                   ],
+                       "related":  [
+
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "spoken-word",
+                       "names":  {
+                                     "en":  "Spoken Word",
+                                     "ru":  "Разговорный жанр",
+                                     "zh_CN":  "口语",
+                                     "ja":  "スポークンワード"
+                                 },
+                       "aliases":  [
+                                       "Speech",
+                                       "Audiobook",
+                                       "Audio Book",
+                                       "Audio Theatre",
+                                       "Podcast",
+                                       "Spoken",
+                                       "Poetry"
+                                   ],
+                       "related":  [
+
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "comedy",
+                       "names":  {
+                                     "en":  "Comedy",
+                                     "ru":  "Комедия",
+                                     "zh_CN":  "喜剧",
+                                     "ja":  "コメディ"
+                                 },
+                       "aliases":  [
+                                       "Comedy Music",
+                                       "Humor",
+                                       "Humour",
+                                       "Satire",
+                                       "Stand-Up",
+                                       "Standup"
+                                   ],
+                       "related":  [
+
+                                   ],
+                       "opposite":  [
+
+                                    ]
+                   },
+                   {
+                       "key":  "children",
+                       "names":  {
+                                     "en":  "Children's",
+                                     "ru":  "Детская",
+                                     "zh_CN":  "儿童音乐",
+                                     "ja":  "子供向け"
+                                 },
+                       "aliases":  [
+                                       "Children's Music",
+                                       "Kids",
+                                       "Children",
+                                       "Kids Music",
+                                       "Lullaby"
+                                   ],
+                       "related":  [
+
+                                   ],
+                       "opposite":  [
+                                        "black-metal",
+                                        "death-metal",
+                                        "heavy-metal",
+                                        "metal",
+                                        "thrash-metal"
+                                    ]
+                   }
+               ],
+    "id3v1":  [
+                  {
+                      "id":  0,
+                      "name":  "Blues",
+                      "key":  "blues"
+                  },
+                  {
+                      "id":  1,
+                      "name":  "Classic Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  2,
+                      "name":  "Country",
+                      "key":  "country"
+                  },
+                  {
+                      "id":  3,
+                      "name":  "Dance",
+                      "key":  "dance"
+                  },
+                  {
+                      "id":  4,
+                      "name":  "Disco",
+                      "key":  "disco"
+                  },
+                  {
+                      "id":  5,
+                      "name":  "Funk",
+                      "key":  "funk"
+                  },
+                  {
+                      "id":  6,
+                      "name":  "Grunge",
+                      "key":  "grunge"
+                  },
+                  {
+                      "id":  7,
+                      "name":  "Hip-Hop",
+                      "key":  "hip-hop"
+                  },
+                  {
+                      "id":  8,
+                      "name":  "Jazz",
+                      "key":  "jazz"
+                  },
+                  {
+                      "id":  9,
+                      "name":  "Metal",
+                      "key":  "metal"
+                  },
+                  {
+                      "id":  10,
+                      "name":  "New Age",
+                      "key":  "new-age"
+                  },
+                  {
+                      "id":  11,
+                      "name":  "Oldies",
+                      "key":  ""
+                  },
+                  {
+                      "id":  12,
+                      "name":  "Other",
+                      "key":  ""
+                  },
+                  {
+                      "id":  13,
+                      "name":  "Pop",
+                      "key":  "pop"
+                  },
+                  {
+                      "id":  14,
+                      "name":  "R&B",
+                      "key":  "r-and-b"
+                  },
+                  {
+                      "id":  15,
+                      "name":  "Rap",
+                      "key":  "rap"
+                  },
+                  {
+                      "id":  16,
+                      "name":  "Reggae",
+                      "key":  "reggae"
+                  },
+                  {
+                      "id":  17,
+                      "name":  "Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  18,
+                      "name":  "Techno",
+                      "key":  "techno"
+                  },
+                  {
+                      "id":  19,
+                      "name":  "Industrial",
+                      "key":  "industrial"
+                  },
+                  {
+                      "id":  20,
+                      "name":  "Alternative",
+                      "key":  "alternative-rock"
+                  },
+                  {
+                      "id":  21,
+                      "name":  "Ska",
+                      "key":  "ska"
+                  },
+                  {
+                      "id":  22,
+                      "name":  "Death Metal",
+                      "key":  "death-metal"
+                  },
+                  {
+                      "id":  23,
+                      "name":  "Pranks",
+                      "key":  ""
+                  },
+                  {
+                      "id":  24,
+                      "name":  "Soundtrack",
+                      "key":  "soundtrack"
+                  },
+                  {
+                      "id":  25,
+                      "name":  "Euro-Techno",
+                      "key":  "techno"
+                  },
+                  {
+                      "id":  26,
+                      "name":  "Ambient",
+                      "key":  "ambient"
+                  },
+                  {
+                      "id":  27,
+                      "name":  "Trip-Hop",
+                      "key":  "trip-hop"
+                  },
+                  {
+                      "id":  28,
+                      "name":  "Vocal",
+                      "key":  ""
+                  },
+                  {
+                      "id":  29,
+                      "name":  "Jazz+Funk",
+                      "key":  "jazz-fusion"
+                  },
+                  {
+                      "id":  30,
+                      "name":  "Fusion",
+                      "key":  "jazz-fusion"
+                  },
+                  {
+                      "id":  31,
+                      "name":  "Trance",
+                      "key":  "trance"
+                  },
+                  {
+                      "id":  32,
+                      "name":  "Classical",
+                      "key":  "classical"
+                  },
+                  {
+                      "id":  33,
+                      "name":  "Instrumental",
+                      "key":  "instrumental"
+                  },
+                  {
+                      "id":  34,
+                      "name":  "Acid",
+                      "key":  ""
+                  },
+                  {
+                      "id":  35,
+                      "name":  "House",
+                      "key":  "house"
+                  },
+                  {
+                      "id":  36,
+                      "name":  "Game",
+                      "key":  "soundtrack"
+                  },
+                  {
+                      "id":  37,
+                      "name":  "Sound Clip",
+                      "key":  ""
+                  },
+                  {
+                      "id":  38,
+                      "name":  "Gospel",
+                      "key":  "gospel"
+                  },
+                  {
+                      "id":  39,
+                      "name":  "Noise",
+                      "key":  "noise"
+                  },
+                  {
+                      "id":  40,
+                      "name":  "Alternative Rock",
+                      "key":  "alternative-rock"
+                  },
+                  {
+                      "id":  41,
+                      "name":  "Bass",
+                      "key":  ""
+                  },
+                  {
+                      "id":  42,
+                      "name":  "Soul",
+                      "key":  "soul"
+                  },
+                  {
+                      "id":  43,
+                      "name":  "Punk",
+                      "key":  "punk"
+                  },
+                  {
+                      "id":  44,
+                      "name":  "Space",
+                      "key":  ""
+                  },
+                  {
+                      "id":  45,
+                      "name":  "Meditative",
+                      "key":  "new-age"
+                  },
+                  {
+                      "id":  46,
+                      "name":  "Instrumental Pop",
+                      "key":  "instrumental"
+                  },
+                  {
+                      "id":  47,
+                      "name":  "Instrumental Rock",
+                      "key":  "instrumental"
+                  },
+                  {
+                      "id":  48,
+                      "name":  "Ethnic",
+                      "key":  "world"
+                  },
+                  {
+                      "id":  49,
+                      "name":  "Gothic",
+                      "key":  "gothic"
+                  },
+                  {
+                      "id":  50,
+                      "name":  "Darkwave",
+                      "key":  "gothic"
+                  },
+                  {
+                      "id":  51,
+                      "name":  "Techno-Industrial",
+                      "key":  "industrial"
+                  },
+                  {
+                      "id":  52,
+                      "name":  "Electronic",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  53,
+                      "name":  "Pop-Folk",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  54,
+                      "name":  "Eurodance",
+                      "key":  "dance"
+                  },
+                  {
+                      "id":  55,
+                      "name":  "Dream",
+                      "key":  ""
+                  },
+                  {
+                      "id":  56,
+                      "name":  "Southern Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  57,
+                      "name":  "Comedy",
+                      "key":  "comedy"
+                  },
+                  {
+                      "id":  58,
+                      "name":  "Cult",
+                      "key":  ""
+                  },
+                  {
+                      "id":  59,
+                      "name":  "Gangsta",
+                      "key":  "hip-hop"
+                  },
+                  {
+                      "id":  60,
+                      "name":  "Top 40",
+                      "key":  ""
+                  },
+                  {
+                      "id":  61,
+                      "name":  "Christian Rap",
+                      "key":  "rap"
+                  },
+                  {
+                      "id":  62,
+                      "name":  "Pop/Funk",
+                      "key":  "funk"
+                  },
+                  {
+                      "id":  63,
+                      "name":  "Jungle",
+                      "key":  "drum-and-bass"
+                  },
+                  {
+                      "id":  64,
+                      "name":  "Native American",
+                      "key":  "world"
+                  },
+                  {
+                      "id":  65,
+                      "name":  "Cabaret",
+                      "key":  ""
+                  },
+                  {
+                      "id":  66,
+                      "name":  "New Wave",
+                      "key":  "new-wave"
+                  },
+                  {
+                      "id":  67,
+                      "name":  "Psychedelic",
+                      "key":  "psychedelic-rock"
+                  },
+                  {
+                      "id":  68,
+                      "name":  "Rave",
+                      "key":  "techno"
+                  },
+                  {
+                      "id":  69,
+                      "name":  "Showtunes",
+                      "key":  "soundtrack"
+                  },
+                  {
+                      "id":  70,
+                      "name":  "Trailer",
+                      "key":  "soundtrack"
+                  },
+                  {
+                      "id":  71,
+                      "name":  "Lo-Fi",
+                      "key":  "lo-fi"
+                  },
+                  {
+                      "id":  72,
+                      "name":  "Tribal",
+                      "key":  "world"
+                  },
+                  {
+                      "id":  73,
+                      "name":  "Acid Punk",
+                      "key":  "punk"
+                  },
+                  {
+                      "id":  74,
+                      "name":  "Acid Jazz",
+                      "key":  "jazz"
+                  },
+                  {
+                      "id":  75,
+                      "name":  "Polka",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  76,
+                      "name":  "Retro",
+                      "key":  ""
+                  },
+                  {
+                      "id":  77,
+                      "name":  "Musical",
+                      "key":  "soundtrack"
+                  },
+                  {
+                      "id":  78,
+                      "name":  "Rock & Roll",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  79,
+                      "name":  "Hard Rock",
+                      "key":  "hard-rock"
+                  },
+                  {
+                      "id":  80,
+                      "name":  "Folk",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  81,
+                      "name":  "Folk-Rock",
+                      "key":  "folk-rock"
+                  },
+                  {
+                      "id":  82,
+                      "name":  "National Folk",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  83,
+                      "name":  "Swing",
+                      "key":  "jazz"
+                  },
+                  {
+                      "id":  84,
+                      "name":  "Fast Fusion",
+                      "key":  "jazz-fusion"
+                  },
+                  {
+                      "id":  85,
+                      "name":  "Bebob",
+                      "key":  "jazz"
+                  },
+                  {
+                      "id":  86,
+                      "name":  "Latin",
+                      "key":  "latin"
+                  },
+                  {
+                      "id":  87,
+                      "name":  "Revival",
+                      "key":  ""
+                  },
+                  {
+                      "id":  88,
+                      "name":  "Celtic",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  89,
+                      "name":  "Bluegrass",
+                      "key":  "country"
+                  },
+                  {
+                      "id":  90,
+                      "name":  "Avantgarde",
+                      "key":  "experimental"
+                  },
+                  {
+                      "id":  91,
+                      "name":  "Gothic Rock",
+                      "key":  "gothic"
+                  },
+                  {
+                      "id":  92,
+                      "name":  "Progressive Rock",
+                      "key":  "progressive-rock"
+                  },
+                  {
+                      "id":  93,
+                      "name":  "Psychedelic Rock",
+                      "key":  "psychedelic-rock"
+                  },
+                  {
+                      "id":  94,
+                      "name":  "Symphonic Rock",
+                      "key":  "progressive-rock"
+                  },
+                  {
+                      "id":  95,
+                      "name":  "Slow Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  96,
+                      "name":  "Big Band",
+                      "key":  "jazz"
+                  },
+                  {
+                      "id":  97,
+                      "name":  "Chorus",
+                      "key":  ""
+                  },
+                  {
+                      "id":  98,
+                      "name":  "Easy Listening",
+                      "key":  "easy-listening"
+                  },
+                  {
+                      "id":  99,
+                      "name":  "Acoustic",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  100,
+                      "name":  "Humour",
+                      "key":  "comedy"
+                  },
+                  {
+                      "id":  101,
+                      "name":  "Speech",
+                      "key":  "spoken-word"
+                  },
+                  {
+                      "id":  102,
+                      "name":  "Chanson",
+                      "key":  ""
+                  },
+                  {
+                      "id":  103,
+                      "name":  "Opera",
+                      "key":  "opera"
+                  },
+                  {
+                      "id":  104,
+                      "name":  "Chamber Music",
+                      "key":  "classical"
+                  },
+                  {
+                      "id":  105,
+                      "name":  "Sonata",
+                      "key":  "classical"
+                  },
+                  {
+                      "id":  106,
+                      "name":  "Symphony",
+                      "key":  "classical"
+                  },
+                  {
+                      "id":  107,
+                      "name":  "Booty Bass",
+                      "key":  "hip-hop"
+                  },
+                  {
+                      "id":  108,
+                      "name":  "Primus",
+                      "key":  ""
+                  },
+                  {
+                      "id":  109,
+                      "name":  "Porn Groove",
+                      "key":  ""
+                  },
+                  {
+                      "id":  110,
+                      "name":  "Satire",
+                      "key":  "comedy"
+                  },
+                  {
+                      "id":  111,
+                      "name":  "Slow Jam",
+                      "key":  "r-and-b"
+                  },
+                  {
+                      "id":  112,
+                      "name":  "Club",
+                      "key":  "dance"
+                  },
+                  {
+                      "id":  113,
+                      "name":  "Tango",
+                      "key":  "latin"
+                  },
+                  {
+                      "id":  114,
+                      "name":  "Samba",
+                      "key":  "latin"
+                  },
+                  {
+                      "id":  115,
+                      "name":  "Folklore",
+                      "key":  "folk"
+                  },
+                  {
+                      "id":  116,
+                      "name":  "Ballad",
+                      "key":  "pop"
+                  },
+                  {
+                      "id":  117,
+                      "name":  "Power Ballad",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  118,
+                      "name":  "Rhythmic Soul",
+                      "key":  "soul"
+                  },
+                  {
+                      "id":  119,
+                      "name":  "Freestyle",
+                      "key":  ""
+                  },
+                  {
+                      "id":  120,
+                      "name":  "Duet",
+                      "key":  ""
+                  },
+                  {
+                      "id":  121,
+                      "name":  "Punk Rock",
+                      "key":  "punk"
+                  },
+                  {
+                      "id":  122,
+                      "name":  "Drum Solo",
+                      "key":  ""
+                  },
+                  {
+                      "id":  123,
+                      "name":  "A Cappella",
+                      "key":  "a-cappella"
+                  },
+                  {
+                      "id":  124,
+                      "name":  "Euro-House",
+                      "key":  "house"
+                  },
+                  {
+                      "id":  125,
+                      "name":  "Dance Hall",
+                      "key":  "reggae"
+                  },
+                  {
+                      "id":  126,
+                      "name":  "Goa",
+                      "key":  "trance"
+                  },
+                  {
+                      "id":  127,
+                      "name":  "Drum & Bass",
+                      "key":  "drum-and-bass"
+                  },
+                  {
+                      "id":  128,
+                      "name":  "Club-House",
+                      "key":  "house"
+                  },
+                  {
+                      "id":  129,
+                      "name":  "Hardcore",
+                      "key":  "hardcore"
+                  },
+                  {
+                      "id":  130,
+                      "name":  "Terror",
+                      "key":  ""
+                  },
+                  {
+                      "id":  131,
+                      "name":  "Indie",
+                      "key":  "indie"
+                  },
+                  {
+                      "id":  132,
+                      "name":  "BritPop",
+                      "key":  "britpop"
+                  },
+                  {
+                      "id":  133,
+                      "name":  "Afro-Punk",
+                      "key":  "punk"
+                  },
+                  {
+                      "id":  134,
+                      "name":  "Polsk Punk",
+                      "key":  "punk"
+                  },
+                  {
+                      "id":  135,
+                      "name":  "Beat",
+                      "key":  ""
+                  },
+                  {
+                      "id":  136,
+                      "name":  "Christian Gangsta Rap",
+                      "key":  "rap"
+                  },
+                  {
+                      "id":  137,
+                      "name":  "Heavy Metal",
+                      "key":  "heavy-metal"
+                  },
+                  {
+                      "id":  138,
+                      "name":  "Black Metal",
+                      "key":  "black-metal"
+                  },
+                  {
+                      "id":  139,
+                      "name":  "Crossover",
+                      "key":  ""
+                  },
+                  {
+                      "id":  140,
+                      "name":  "Contemporary Christian",
+                      "key":  "gospel"
+                  },
+                  {
+                      "id":  141,
+                      "name":  "Christian Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  142,
+                      "name":  "Merengue",
+                      "key":  "latin"
+                  },
+                  {
+                      "id":  143,
+                      "name":  "Salsa",
+                      "key":  "salsa"
+                  },
+                  {
+                      "id":  144,
+                      "name":  "Thrash Metal",
+                      "key":  "thrash-metal"
+                  },
+                  {
+                      "id":  145,
+                      "name":  "Anime",
+                      "key":  "anime"
+                  },
+                  {
+                      "id":  146,
+                      "name":  "JPop",
+                      "key":  "j-pop"
+                  },
+                  {
+                      "id":  147,
+                      "name":  "Synthpop",
+                      "key":  "synth-pop"
+                  },
+                  {
+                      "id":  148,
+                      "name":  "Abstract",
+                      "key":  "experimental"
+                  },
+                  {
+                      "id":  149,
+                      "name":  "Art Rock",
+                      "key":  "progressive-rock"
+                  },
+                  {
+                      "id":  150,
+                      "name":  "Baroque",
+                      "key":  "classical"
+                  },
+                  {
+                      "id":  151,
+                      "name":  "Bhangra",
+                      "key":  "world"
+                  },
+                  {
+                      "id":  152,
+                      "name":  "Big Beat",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  153,
+                      "name":  "Breakbeat",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  154,
+                      "name":  "Chillout",
+                      "key":  "chillout"
+                  },
+                  {
+                      "id":  155,
+                      "name":  "Downtempo",
+                      "key":  "downtempo"
+                  },
+                  {
+                      "id":  156,
+                      "name":  "Dub",
+                      "key":  "dub"
+                  },
+                  {
+                      "id":  157,
+                      "name":  "EBM",
+                      "key":  "industrial"
+                  },
+                  {
+                      "id":  158,
+                      "name":  "Eclectic",
+                      "key":  ""
+                  },
+                  {
+                      "id":  159,
+                      "name":  "Electro",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  160,
+                      "name":  "Electroclash",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  161,
+                      "name":  "Emo",
+                      "key":  "emo"
+                  },
+                  {
+                      "id":  162,
+                      "name":  "Experimental",
+                      "key":  "experimental"
+                  },
+                  {
+                      "id":  163,
+                      "name":  "Garage",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  164,
+                      "name":  "Global",
+                      "key":  "world"
+                  },
+                  {
+                      "id":  165,
+                      "name":  "IDM",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  166,
+                      "name":  "Illbient",
+                      "key":  "ambient"
+                  },
+                  {
+                      "id":  167,
+                      "name":  "Industro-Goth",
+                      "key":  "industrial"
+                  },
+                  {
+                      "id":  168,
+                      "name":  "Jam Band",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  169,
+                      "name":  "Krautrock",
+                      "key":  "progressive-rock"
+                  },
+                  {
+                      "id":  170,
+                      "name":  "Leftfield",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  171,
+                      "name":  "Lounge",
+                      "key":  "easy-listening"
+                  },
+                  {
+                      "id":  172,
+                      "name":  "Math Rock",
+                      "key":  "progressive-rock"
+                  },
+                  {
+                      "id":  173,
+                      "name":  "New Romantic",
+                      "key":  "new-wave"
+                  },
+                  {
+                      "id":  174,
+                      "name":  "Nu-Breakz",
+                      "key":  "electronic"
+                  },
+                  {
+                      "id":  175,
+                      "name":  "Post-Punk",
+                      "key":  "post-punk"
+                  },
+                  {
+                      "id":  176,
+                      "name":  "Post-Rock",
+                      "key":  "post-rock"
+                  },
+                  {
+                      "id":  177,
+                      "name":  "Psytrance",
+                      "key":  "trance"
+                  },
+                  {
+                      "id":  178,
+                      "name":  "Shoegaze",
+                      "key":  "shoegaze"
+                  },
+                  {
+                      "id":  179,
+                      "name":  "Space Rock",
+                      "key":  "progressive-rock"
+                  },
+                  {
+                      "id":  180,
+                      "name":  "Trop Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  181,
+                      "name":  "World Music",
+                      "key":  "world"
+                  },
+                  {
+                      "id":  182,
+                      "name":  "Neoclassical",
+                      "key":  "classical"
+                  },
+                  {
+                      "id":  183,
+                      "name":  "Audiobook",
+                      "key":  "spoken-word"
+                  },
+                  {
+                      "id":  184,
+                      "name":  "Audio Theatre",
+                      "key":  "spoken-word"
+                  },
+                  {
+                      "id":  185,
+                      "name":  "Neue Deutsche Welle",
+                      "key":  "new-wave"
+                  },
+                  {
+                      "id":  186,
+                      "name":  "Podcast",
+                      "key":  "spoken-word"
+                  },
+                  {
+                      "id":  187,
+                      "name":  "Indie Rock",
+                      "key":  "indie"
+                  },
+                  {
+                      "id":  188,
+                      "name":  "G-Funk",
+                      "key":  "hip-hop"
+                  },
+                  {
+                      "id":  189,
+                      "name":  "Dubstep",
+                      "key":  "dubstep"
+                  },
+                  {
+                      "id":  190,
+                      "name":  "Garage Rock",
+                      "key":  "rock"
+                  },
+                  {
+                      "id":  191,
+                      "name":  "Psybient",
+                      "key":  "ambient"
+                  }
+              ]
+}

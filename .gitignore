@@ -1,0 +1,105 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*~
+*.autosave
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+.DS_Store
+.directory
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Thumbs.db
+*.res
+*.rc
+/.qmake.cache
+/.qmake.stash
+**/.qmlls.ini
+
+# qtcreator generated files
+*.pro.user*
+*.qbs.user*
+CMakeLists.txt.user*
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+
+# Binaries
+# --------
+*.dll
+*.exe
+
+# Directories with generated files
+.moc/
+.obj/
+.pch/
+.rcc/
+.uic/
+/build*/
+/.qtcreator/
+
+# Semplice
+/build/
+/.qtcreator/
+CMakeUserPresets.json
+CMakeLists.txt.user*
+/installer/
+
+# release packages: the portable folder dist/Semplice is published, so the .exe / .dll rules above are lifted for it
+!/dist/Semplice/**/*.exe
+!/dist/Semplice/**/*.dll
+# not published: the symbols for crash reports (about 200 MB, over the file limit of GitHub) and the zip copy of the folder
+/dist/Semplice-symbols/
+/dist/*.zip
+
+# Not for the public repository: scratch files and working notes (moved here during the pre-release clean-up)
+/.claude/
+Programserr.txt
+
+# Design sources (Figma exports, the UI document)
+/docs/design/
+/docs/source/

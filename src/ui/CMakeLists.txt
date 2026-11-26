@@ -1,0 +1,44 @@
+add_library(semplice_ui STATIC
+    ShellVm.h
+    ShellVm.cpp
+    LibraryEngine.h
+    LibraryEngine.cpp
+    PickerVm.h
+    DeleteText.h
+    AsyncPlaybackStore.h
+    AsyncPlaybackStore.cpp
+    SettingsVm.h
+    SettingsVm.cpp
+    DeleteText.cpp
+    EditorVm.h
+    EditorVm.cpp
+    EditorTypes.h
+    LibraryEngineEditors.cpp
+    CardVms.h
+    CardVms.cpp
+    HomeVm.h
+    HomeVm.cpp
+    LibraryListModel.h
+    LibraryListModel.cpp
+    LibraryVm.h
+    LibraryVm.cpp
+    BannerVm.h
+    BannerVm.cpp
+    ShareVm.h
+    ShareVm.cpp
+    NavigationVm.h
+    NavigationVm.cpp
+    PlayerVm.h
+    PlayerVm.cpp
+    QueueVm.h
+    QueueVm.cpp
+    SearchVm.h
+    SearchVm.cpp
+    CoverImageProvider.h
+    CoverImageProvider.cpp
+    AppController.h
+    AppController.cpp
+)
+target_include_directories(semplice_ui PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/..)
+target_link_libraries(semplice_ui PUBLIC Qt6::Gui Qt6::Quick semplice_platform semplice_core)
+semplice_set_warnings(semplice_ui)

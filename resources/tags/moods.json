@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "tags": [
+        { "key": "cheerful", "names": { "en": "Cheerful", "ru": "Весёлое", "zh_CN": "欢快", "ja": "陽気" } },
+        { "key": "sad", "names": { "en": "Sad", "ru": "Грустное", "zh_CN": "忧伤", "ja": "悲しい" } },
+        { "key": "energetic", "names": { "en": "Energetic", "ru": "Энергичное", "zh_CN": "充满活力", "ja": "エネルギッシュ" } },
+        { "key": "calm", "names": { "en": "Calm", "ru": "Спокойное", "zh_CN": "平静", "ja": "穏やか" } },
+        { "key": "romantic", "names": { "en": "Romantic", "ru": "Романтичное", "zh_CN": "浪漫", "ja": "ロマンチック" } },
+        { "key": "melancholic", "names": { "en": "Melancholic", "ru": "Меланхоличное", "zh_CN": "忧郁", "ja": "メランコリック" } },
+        { "key": "dark", "names": { "en": "Dark", "ru": "Мрачное", "zh_CN": "黑暗", "ja": "ダーク" } },
+        { "key": "aggressive", "names": { "en": "Aggressive", "ru": "Агрессивное", "zh_CN": "激烈", "ja": "攻撃的" } },
+        { "key": "dreamy", "names": { "en": "Dreamy", "ru": "Мечтательное", "zh_CN": "梦幻", "ja": "夢見心地" } },
+        { "key": "nostalgic", "names": { "en": "Nostalgic", "ru": "Ностальгическое", "zh_CN": "怀旧", "ja": "ノスタルジック" } },
+        { "key": "epic", "names": { "en": "Epic", "ru": "Эпичное", "zh_CN": "史诗", "ja": "壮大" } },
+        { "key": "chill", "names": { "en": "Chill", "ru": "Расслабленное", "zh_CN": "惬意", "ja": "チル" } },
+        { "key": "uplifting", "names": { "en": "Uplifting", "ru": "Воодушевляющее", "zh_CN": "振奋", "ja": "高揚感" } },
+        { "key": "hopeful", "names": { "en": "Hopeful", "ru": "Обнадёживающее", "zh_CN": "充满希望", "ja": "希望に満ちた" } },
+        { "key": "mysterious", "names": { "en": "Mysterious", "ru": "Загадочное", "zh_CN": "神秘", "ja": "ミステリアス" } },
+        { "key": "party", "names": { "en": "Party", "ru": "Вечеринка", "zh_CN": "派对", "ja": "パーティー" } },
+        { "key": "atmospheric", "names": { "en": "Atmospheric", "ru": "Атмосферное", "zh_CN": "氛围感", "ja": "アトモスフェリック" } },
+        { "key": "emotional", "names": { "en": "Emotional", "ru": "Эмоциональное", "zh_CN": "情感丰富", "ja": "エモーショナル" } },
+        { "key": "intense", "names": { "en": "Intense", "ru": "Напряжённое", "zh_CN": "强烈", "ja": "激しい" } },
+        { "key": "playful", "names": { "en": "Playful", "ru": "Игривое", "zh_CN": "俏皮", "ja": "遊び心のある" } },
+        { "key": "angry", "names": { "en": "Angry", "ru": "Злое", "zh_CN": "愤怒", "ja": "怒り" } },
+        { "key": "lonely", "names": { "en": "Lonely", "ru": "Одинокое", "zh_CN": "孤独", "ja": "孤独" } },
+        { "key": "bittersweet", "names": { "en": "Bittersweet", "ru": "Горько-сладкое", "zh_CN": "苦乐参半", "ja": "ほろ苦い" } },
+        { "key": "motivational", "names": { "en": "Motivational", "ru": "Мотивирующее", "zh_CN": "励志", "ja": "やる気を出す" } }
+    ]
+}

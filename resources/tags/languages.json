@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "tags": [
+        { "key": "en", "names": { "en": "English", "ru": "Английский", "zh_CN": "英语", "ja": "英語" } },
+        { "key": "ru", "names": { "en": "Russian", "ru": "Русский", "zh_CN": "俄语", "ja": "ロシア語" } },
+        { "key": "es", "names": { "en": "Spanish", "ru": "Испанский", "zh_CN": "西班牙语", "ja": "スペイン語" } },
+        { "key": "fr", "names": { "en": "French", "ru": "Французский", "zh_CN": "法语", "ja": "フランス語" } },
+        { "key": "de", "names": { "en": "German", "ru": "Немецкий", "zh_CN": "德语", "ja": "ドイツ語" } },
+        { "key": "it", "names": { "en": "Italian", "ru": "Итальянский", "zh_CN": "意大利语", "ja": "イタリア語" } },
+        { "key": "pt", "names": { "en": "Portuguese", "ru": "Португальский", "zh_CN": "葡萄牙语", "ja": "ポルトガル語" } },
+        { "key": "uk", "names": { "en": "Ukrainian", "ru": "Украинский", "zh_CN": "乌克兰语", "ja": "ウクライナ語" } },
+        { "key": "pl", "names": { "en": "Polish", "ru": "Польский", "zh_CN": "波兰语", "ja": "ポーランド語" } },
+        { "key": "tr", "names": { "en": "Turkish", "ru": "Турецкий", "zh_CN": "土耳其语", "ja": "トルコ語" } },
+        { "key": "ja", "names": { "en": "Japanese", "ru": "Японский", "zh_CN": "日语", "ja": "日本語" } },
+        { "key": "ko", "names": { "en": "Korean", "ru": "Корейский", "zh_CN": "韩语", "ja": "韓国語" } },
+        { "key": "zh", "names": { "en": "Chinese", "ru": "Китайский", "zh_CN": "中文", "ja": "中国語" } },
+        { "key": "ar", "names": { "en": "Arabic", "ru": "Арабский", "zh_CN": "阿拉伯语", "ja": "アラビア語" } },
+        { "key": "hi", "names": { "en": "Hindi", "ru": "Хинди", "zh_CN": "印地语", "ja": "ヒンディー語" } },
+        { "key": "sv", "names": { "en": "Swedish", "ru": "Шведский", "zh_CN": "瑞典语", "ja": "スウェーデン語" } },
+        { "key": "nl", "names": { "en": "Dutch", "ru": "Нидерландский", "zh_CN": "荷兰语", "ja": "オランダ語" } },
+        { "key": "fi", "names": { "en": "Finnish", "ru": "Финский", "zh_CN": "芬兰语", "ja": "フィンランド語" } },
+        { "key": "la", "names": { "en": "Latin", "ru": "Латинский", "zh_CN": "拉丁语", "ja": "ラテン語" } },
+        { "key": "instrumental", "names": { "en": "Instrumental", "ru": "Инструментальная", "zh_CN": "纯音乐", "ja": "インストゥルメンタル" } },
+        { "key": "multilingual", "names": { "en": "Multilingual", "ru": "Многоязычная", "zh_CN": "多语言", "ja": "多言語" } }
+    ]
+}

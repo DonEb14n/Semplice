@@ -1,0 +1,62 @@
+{
+  "version": 6,
+  "cmakeMinimumRequired": { "major": 3, "minor": 25, "patch": 0 },
+  "configurePresets": [
+    {
+      "name": "base",
+      "hidden": true,
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/${presetName}",
+      "cacheVariables": { "CMAKE_EXPORT_COMPILE_COMMANDS": "ON" }
+    },
+    {
+      "name": "windows-mingw-debug",
+      "displayName": "Windows MinGW Debug (default)",
+      "inherits": "base",
+      "condition": { "type": "equals", "lhs": "${hostSystemName}", "rhs": "Windows" },
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Debug" }
+    },
+    {
+      "name": "windows-mingw-release",
+      "displayName": "Windows MinGW Release",
+      "inherits": "base",
+      "condition": { "type": "equals", "lhs": "${hostSystemName}", "rhs": "Windows" },
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Release" }
+    },
+    {
+      "name": "windows-msvc-debug",
+      "displayName": "Windows MSVC Debug (second compiler check)",
+      "inherits": "base",
+      "condition": { "type": "equals", "lhs": "${hostSystemName}", "rhs": "Windows" },
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Debug" }
+    },
+    {
+      "name": "windows-msvc-release",
+      "displayName": "Windows MSVC Release",
+      "inherits": "base",
+      "condition": { "type": "equals", "lhs": "${hostSystemName}", "rhs": "Windows" },
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Release" }
+    },
+    {
+      "name": "linux-core",
+      "displayName": "Linux core + tests only",
+      "inherits": "base",
+      "condition": { "type": "equals", "lhs": "${hostSystemName}", "rhs": "Linux" },
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Debug", "SEMPLICE_BUILD_APP": "OFF" }
+    }
+  ],
+  "buildPresets": [
+    { "name": "windows-mingw-debug", "configurePreset": "windows-mingw-debug" },
+    { "name": "windows-mingw-release", "configurePreset": "windows-mingw-release" },
+    { "name": "windows-msvc-debug", "configurePreset": "windows-msvc-debug" },
+    { "name": "windows-msvc-release", "configurePreset": "windows-msvc-release" },
+    { "name": "linux-core", "configurePreset": "linux-core" }
+  ],
+  "testPresets": [
+    { "name": "windows-mingw-debug", "configurePreset": "windows-mingw-debug", "output": { "outputOnFailure": true } },
+    { "name": "windows-mingw-release", "configurePreset": "windows-mingw-release", "output": { "outputOnFailure": true } },
+    { "name": "windows-msvc-debug", "configurePreset": "windows-msvc-debug", "output": { "outputOnFailure": true } },
+    { "name": "windows-msvc-release", "configurePreset": "windows-msvc-release", "output": { "outputOnFailure": true } },
+    { "name": "linux-core", "configurePreset": "linux-core", "output": { "outputOnFailure": true } }
+  ]
+}

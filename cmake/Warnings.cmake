@@ -1,0 +1,17 @@
+# semplice_set_warnings(<target> [WERROR])
+# MSVC: /W4 /permissive-, GCC/Clang: -Wall -Wextra -Wpedantic. WERROR turns warnings into errors.
+function(semplice_set_warnings target)
+    cmake_parse_arguments(ARG "WERROR" "" "" ${ARGN})
+    if(MSVC)
+        target_compile_options(${target} PRIVATE /W4 /permissive- /utf-8
+            /external:anglebrackets /external:W0)
+        if(ARG_WERROR)
+            target_compile_options(${target} PRIVATE /WX)
+        endif()
+    else()
+        target_compile_options(${target} PRIVATE -Wall -Wextra -Wpedantic)
+        if(ARG_WERROR)
+            target_compile_options(${target} PRIVATE -Werror)
+        endif()
+    endif()
+endfunction()
